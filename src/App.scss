@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "Lora", cursive;
+  src: url("./assets/font/Lora-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: "Roboto", cursive;
+  src: url("./assets/font/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: "SF Pro", cursive;
+  src: url("./assets/font/SF-Pro.ttf");
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background-color: #fafbfe;
+  box-sizing: border-box;
+}
+.text-title {
+  font-family: "Roboto", cursive;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  color: #000000;
+}
+
+.text-logo {
+  font-family: "Lora", cursive;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 41px;
+  color: #14203a;
+}
+
+.text-small {
+  font-family: "Roboto", cursive;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 13px;
+}
+
+.text-subtitle-bold {
+  font-family: "Roboto", cursive;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.text-subtitle {
+  font-family: "Roboto", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+}
+.text-description {
+  font-family: "SF Pro", cursive;
+  font-weight: 590;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.text-description-status {
+  font-family: "SF Pro", cursive;
+  font-style: normal;
+  font-weight: 590;
+  font-size: 20px;
+  line-height: 24px;
+}
+.text-description-chip {
+  font-family: "SF Pro", cursive;
+  font-style: normal;
+  font-weight: 590;
+  font-size: 14px;
+  line-height: 17px;
+}
+.text-body {
+  font-family: "Roboto", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+}
+.text-body-bold {
+  font-family: "SF Pro", cursive;
+  font-style: normal;
+  font-weight: 590;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+.text-card-body {
+  font-family: "Roboto", cursive;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.text-des {
+  font-family: "Roboto", cursive;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: #000000;
+}
+
+svg {
+  cursor: pointer;
+}
